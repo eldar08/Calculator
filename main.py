@@ -30,6 +30,7 @@ elif num==3:
     x = int(input("Enter the first number: "))
     y = int(input("Enter the second number: "))
     result = plus(x, y)
+    #print all results
     print(result)
 elif num==4:
     x = int(input("Enter the first number: "))
